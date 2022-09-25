@@ -1,0 +1,18 @@
+LogisticRegression,,,77
+KNeighborsClassifier,,,55
+SVC    ,,,83
+GridSearchCV,,,81
+"kernel=""rbf""",,,83
+DecisionTreeClassifier(test data),,,83
+DecisionTreeClassifier(train data),,,97
+"D-roc_curve,auc  ",,,88
+RandomForestClassifier(test data),,,94
+RandomForestClassifier(train data),,,97
+AdaBoostClassifier(test data),,,77
+AdaBoostClassifier(train data),,,82
+GradientBoostingClassifier(test data),,,88
+GradientBoostingClassifier(train data),,,89
+BaggingClassifier(test data),,,88
+BaggingClassifier(train data) ,,,96
+XGBClassifier(test data)  ,,,83
+XGBClassifier(train data) ,,,95
